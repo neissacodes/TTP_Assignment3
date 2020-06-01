@@ -1,0 +1,69 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#part1{    
+    background:rgb(73, 135, 163);
+    padding: 10px;
+  }
+
+#part2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background:rgb(113, 119, 60);
+    padding: 10px;
+  }    
+  
+#part3{
+    background:rgb(71, 134, 82);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+#part4{
+    background:rgb(223, 216, 113);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+
+
+#button1{
+    background: rgb(19, 184, 235);
+}
+
+#button2{
+    background:rgb(38, 218, 22);
+}
+
+#element-hover {
+    display: flex;
+    flex-direction: row;  
+	align-items: center;  
+	justify-content: center;  
+	height: 50%;
+    width:100%;
+    	
+	background: rgba(62, 14, 105, 0.5);      
+	color: white;	
+	border-radius: 20px;
+	padding: 5px;
+}   
+      
+    
+#login{
+    background:rgb(165, 83, 131);
+}
+
+#login-prompt{
+    display: flex;
+    align-items: row;
+}
+
+    
